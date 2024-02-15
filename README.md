@@ -24,3 +24,10 @@ Prepare two images: one to display at the beginning and another for the end of y
 
 Outside the repository's folder, create a folder named quotes.
 Inside quotes, create a text file named quote.txt and format it as follows:
+```
+quote number: 1
+1# “Your quote here” - Author (Source)
+```
+Ensure the format is followed precisely to avoid errors. The quote number will update automatically.
+Create another folder at the same level as `quotes`, named `clips`. Within `clips`, create subfolders named after anime series and populate them with relevant video clips. 
+The toolkit will select a clip randomly for each video.
