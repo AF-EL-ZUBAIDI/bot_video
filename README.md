@@ -47,5 +47,5 @@ Follow the format strictly for proper operation.
 ## Getting Started
 With the prerequisites in place, you're ready to create videos with a single click. This toolkit is designed to streamline the video creation process for TikTok content creators, offering a range of customization options to suit different themes and preferences.
 
-Contribution
+### Contribution
 Feedback and contributions to this project are welcome.
