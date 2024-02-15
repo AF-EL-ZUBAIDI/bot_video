@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "editor.codeActionsOnSave": {
+        
+    }
+}
