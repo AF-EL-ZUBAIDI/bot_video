@@ -21,8 +21,7 @@ Prepare two images: one to display at the beginning and another for the end of y
 ### For Quote-Based Videos:
 
 - Outside the repository's folder, create a folder named quotes.
-- 
-Inside quotes, create a text file named quote.txt and format it as follows:
+- Inside quotes, create a text file named quote.txt and format it as follows:
 ```
 quote number: 1
 1# “Your quote here” - Author (Source)
