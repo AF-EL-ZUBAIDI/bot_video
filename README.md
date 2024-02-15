@@ -4,7 +4,7 @@ This repository offers a versatile toolkit for creating various types of vertica
 ## Video Types
 The toolkit supports the creation of three distinct types of videos:
 
-1- **Wallpaper Background Videos:** Generate videos from images intended as phone wallpapers./n
+1- **Wallpaper Background Videos:** Generate videos from images intended as phone wallpapers.
 2- **Quote-Based Videos:** Create videos that visually present quotes.
 3- **Segmented Videos from a Single Source:** Divide a longer video into multiple shorter segments suitable for TikTok posts.
 
